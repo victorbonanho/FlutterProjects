@@ -14,3 +14,7 @@
 
 **Debugging Flutter Apps**
 In debug mode or using the dev tools
+
+- Publish an Android App: https://docs.flutter.dev/deployment/android
+
+- Publish an iOS App: https://docs.flutter.dev/deployment/ios
